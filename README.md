@@ -1,4 +1,5 @@
 # Stopwatch-lap-timer
+version: 1.0
 Part of a Udemy course called '30 HTML CSS & JavaScript projects in 30 Days for Beginnners' by Norbert B Menyhart. I wanted to practice practical 
 application of javascript and seeing how it would work from scratch.
 
@@ -10,6 +11,6 @@ application of javascript and seeing how it would work from scratch.
 -- appendChild
 --overlays for the background
 
-##Things That can be improved
+## Things That can be improved
 --You can keep hitting stop and having the same time 'logged' underneath the timer. Perhaps make it so the button can only be pressed once and can't be pressed again unless 
 the Start button has been pressed.
